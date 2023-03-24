@@ -2,3 +2,5 @@ curriculum vitoe
 Kinder la 9
 primaria: Kinder la 9
 secundaria: CPN
+Prepa: CETIS
+Universidad: Tecm
